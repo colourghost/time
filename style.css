@@ -87,6 +87,9 @@ body {
 .doug-schedule > div:first-child {
   margin-left: 60px;
 }
+.doug-schedule > div:nth-child(2) {
+  margin-left: 135px;
+}
 
 .dom-schedule {
   position: absolute;
